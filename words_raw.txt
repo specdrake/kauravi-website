@@ -1,0 +1,393 @@
+. Satba (sacchi mein)
+. Dokke
+. Saani
+. Daangar
+. Adaanga
+. Gadang (gadang na maare)
+. Aal pataal (aal patall bakey)
+. Baalna (jalana)
+. Naak pe diva baalna (last moment pe kuch karna)
+. Khade paavde (saari cheez khade pavde chah)
+. Gindova
+. Bigova
+. Gandheela / Gandheelpana
+. Tittak taara
+. Oot Pataang
+. Badhotri
+. Ghatat
+. Taadhka
+. Kirak
+. Hilana (kisi ko jyada ni hilaya karte)
+. Haathad
+. Titaar Dapheri
+. Jhingla (tooti khaat)
+. Pilang
+. Niwad ka pilang
+. Tutte se goddu te
+. Dahi toot gi
+. Sehedna (koi cheez sehed gi)
+. Tijju (teej)
+. Dhaadal Paattal
+. Jhonta (jhoola)
+. Kaabla (pench, screw)
+. Aanth (aanth mein samaan)
+. Adossa (nephhe mein Dena)
+. Gharda (gharda pad ja)
+. Budka
+. Ghonchu
+. Kutte rona (yha to kutte rove thhe bhaag bahvad ke ibja)
+. Bahvadna
+. Khood (jameen related)
+. Chak
+. Noh (nails)
+. Chakkhuna
+. Chongharna
+. Choonghna
+. Tees (pyaas)
+. Mewa (dry fruits)
+. Yadmi (aadmi)
+. Beer/Beerbaani / Janani / Lugai (woman)
+. Khasam
+. Bateu / Jamai
+. Pahvna / Mehmaan
+. Yaana
+. Shyaana
+. Yaanpatt
+. Shyanpatt
+. Baandna (bardana), baande jaa
+. Baidke (balad) (is this word used? Heard in song "3 ghode")
+. Sullu
+. Olli solli
+. Idhaal chhik gya raaah ni
+. Raah na dena
+. Bisaar (bhoolna)
+. Bisar ni
+. Tolle / Tarode
+. To(l)e (aankhein)
+. Katla (phaank) /Burka
+. Phaant
+. Cheera (incision)
+. Kandamm (bekaar)
+. Nettham
+. Khabba
+. Sabba
+. Pawasna (bhais / gaa)
+. Binole
+. Dokke
+. Khalwa
+. Binta (fawle ka)
+. Fawla
+. Hadampa
+. Kena / Kena sa (thoda)
+. Chinak sa (thoda sa)
+. Mathaarna
+. Huinyaar (parchhai)
+. Bhe dena (bhigo dena)
+. Mere jummei (my responsibility)
+. Kudhabba
+. Kudhaala
+. Bhanyaas thaana
+. Bhabka
+. Gadd de k (jaldi)
+. Gadd kar de / Gadd dani si (jaldi)
+. Kottak taarna
+. Kaagwa
+. Gudalyu
+. Bigaar
+. Singwana
+. Jhoda (weak body)
+. Bhaal Kaadhna (investigate)
+. Tehla
+. Dhaarudhaar jaana (bekaar hona kuch kaam)
+. Bela
+. Ta Majhe nu kahi thi (ta instead of tune)
+. Salai
+. Kaansalai
+. Diladdar
+. Jhingalkoddi
+. Mushakkar
+. Neshti
+. Chaparna
+. Chumana
+. Maliamet
+. Allakaran
+. Kod (kod mota)
+. Sirdasha
+. Nyaanti
+. Thossa
+. Londe laare
+. Saakka
+. Khaade (Karna/taarna)
+. Batey chadhana
+. Roli karna
+. Ud( mhari ud)/ kaani
+. Lheenk (baalo mein line/maang)
+. Gameena
+. Bagaa (phenk)
+. Dankani
+. Doodhi
+. Rodi
+. Rai (doodh bilone ki)
+. Bilona
+. Naina (gai ke per mein rassi baandhna, doodh kaadhte tem)
+. Netna (rai mein bandhne wali rassi)
+. Gidgam (handi dharne ka, lakdi ka)
+. Chaakhda (haandi ka dhakkan, beech mein suraak, rai ghaalne ke liye)
+. Suraak
+. Pagha (bel ke baandhne ka, hal jot te tem)
+. Mohri (bhens ke rassi baandhe jo muh pe)
+. Naath (bail/jhotte ke naak m baandhe)
+. Jeibdi
+. Chhinka (muh pe baandhne ka, jiste ghaas na khaave)
+. Phaali (lohe ka)
+. Paathha (phaali ke Saath lage)
+. Pachhela (paathe aur phaali ko tight karne ke liye)
+. Nadhel/Dandhel (hal mein)
+. Juva (do bail pe upar dandi)
+. Halsoth
+. Madaa/Madii/Paata (tractor/hal mein)
+. Mandhaa
+. Tikkad
+. Dhee
+. Magaj
+. Beer (bhai)
+. Baassan
+. Maanjna
+. Jhakolna
+. Samharna
+. Radkaa maarna
+. Lattey
+. Lattey Chaal
+. Panchu latte hona
+. Hambe
+. Chidokli
+. Jhabree
+. Shaukinee
+. Pathla
+. Pathe khuvana
+. Ladhdu
+. Jamoora/Jamoori
+. Biloti
+. Rees
+. Chhoti si raas ka
+. Chitt
+. Lakhaana
+. Lhukna
+. Haandna
+. Fhanaa peetna
+. Paala padna (jaade mein)
+. Khalkat
+. Burset
+. Subki
+. Jeli
+. Bhande (bartan)
+. Dohra/Dohri (bartan with a binta, used by halwai)
+. Razna/Razni (bartan)
+. Tokna/Tokni/Gagri
+. Tamna
+. Surahi
+. Pahvdi (mitti ka bartan)
+. Kachhala (Bada Ghada)
+. Paala (handi pe dhakne ka)
+. Haara
+. Palli
+. Mugdad (dumbbells)
+. Dhaula (white)
+. Leella (blue)
+. Pela (yellow)
+. Palwa (doodh ghaalne ka)
+. Simpi (chhonk den ki)
+. Dunghaar Dena (chhonk Dena/tadka)
+. Beid (rassi)
+. Usaara (chhappar)
+. Chhol lagana (gaande chholna)
+. Ausra (neher ki baari/turn paani chalane ki)
+. Tasla
+. Fawla
+. Kassi
+. Khurpa/Khurpi
+. Daanh
+. Daraant(i) / Danthadaa (saag kaatne ka)
+. Daanti
+. Ye toh biraan hota firega (dhakke khaata firna)
+. Rail mein oonth chadhana
+. Beerbal ki khichdi
+. Tohna / Toohndna (to find)
+. Yaadi
+. Dhabbi
+. Dhabban/Cheli/Setting(gf)
+. Nede kar le (paas / close)
+. Boch le
+. Laave (near)
+. Nede (near)
+. Tadke (Kal)
+. Tadki-Tadak (early morning)
+. Pasar (early morning)
+. Saanjh (shaam)
+. Inghe/Ninghe Unghe/Vanghe (idhar/ udhar)
+. Bhatere (bahot, enough)
+. Sapadna (khatam hona)
+. Sandraana (sona)
+. Tek de (rakh de/ dhar de)
+. Fokka (Chhala muh mein)
+. Funsi
+. Goomdi
+. Fove (cotton)
+. Fove dharna (Makkhan lagana)
+. Daat / Dattak
+. Bhedna (band karna)
+. Bodda
+. Bodda-Kaala
+. Thaada
+. Maada sa
+. Neet (neet ka maada)
+. Maadak sa
+. Giroli
+. Suthra
+. Shikal
+. Thooth/Thhothdi
+. Ek raah ka
+. Goli dena
+. Bhakaana
+. Chakma dena
+. Haasi haasi mein gal faasi
+. Chho (gussa) / Chho'la (angry)
+. Lonnda / Lamda / Chorra
+. Lonndi/ Lamdi / Chhori
+. Baalak/Jaakkat
+. Kella
+. Dukella
+. Rona jhinjhaana
+. Khijji kaadhna
+. Ahmak
+. Behyaa
+. Sella (slow) /Dhila
+. Afatiyaara
+. Sukiamasaan
+. Cheedha
+. Khoont m
+. Roosna (naraz hona)
+. Ghinn aana
+. Jinavar
+. Hungarq
+. Kubadh taarna
+. Kubaddhi (albaad)
+. Nunder/Nundra (playful name used for small child)
+. Tared
+. Utaar (badmash/uunt)
+. Mujbaani (muh zabani)
+. Khataa
+. Khatakhwaar
+. Aibdaar
+. Lungaada
+. Jhaarna
+. Dukadiya
+. Thulaati/Dhabbi
+. Thulaatan/Sapaathan/Sehli/Dhabban
+. Paij karna
+. Bahvadna (Din bahvad ge)
+. Bejaa (bahot/ ghani bejaa)
+. Satwe bahana (crying rivers)
+. Sagle (hard l) (sab katthe hona)
+. Phool chugna / Chahne
+. Med med (gaadi med med bolna)/ marad marad
+. Laffna (laff ke thaa le)
+. Thiya (thikana)
+. Kaagwa (sar ke beech mein top pe)
+. Kaag (kagga) / crow
+. Hoola (hard l) (toofan)
+. Ghangela (hard l) (chakkar aana) / Ghameri
+. Dangwara
+. Durgati
+. Jhonj maarna (khujli)
+. Sakerna
+. Kurkuri / Kasturi (bechani)
+. Katordaan
+. Chees
+. Kirkiri
+. Kaans (ladai, kaansi lugai)
+. Koli (koli bharna, koli daant li)
+. Dhasarna
+. Boojhna
+. Sehej ke / Sej Sej (aaram se)
+. Jogga
+. Beda garak
+. Asitasi
+. Vaar saber
+. Kutreid
+. Ahmak
+. Senpaapde
+. Bicchwe (chukti) /toes rings
+. Mundri (kaan m pehen ne k)
+. Sipand (thhos)
+. Chillattar
+. Poogna
+. Akri
+. Bijove (ram ji) (lightening)
+. Ghorna (thunder)
+. Dhak (little bug/pissu)
+. Butrak sa
+. Aamanmeetta (bhatera/ample)
+. Kadhi-Kadhaik (kabhi - kabhi)
+. Paraamta (parantha)
+. Paraamta sa sikkna (dhoop m garam hona)
+. Sopta (fursat) 
+. Sokta (sukha/dry)
+. Kherja / Kubaada / Kubaad
+. Khatwa (choora gossu ka)
+. Kacchadbeid / Kuttreid (faltu ki bheed)
+. Karsi
+. Gossa
+. Maande (roti)
+. Naaspiti / naaspita
+. Bhad pitni
+. Maakpat aana (raas aana)
+. Raes (chhoti se raes ka)
+. Hubaknaa
+. Ubkaai
+. Mollna (chudhi)
+. Lafheth (eagerness)
+. Fidak (interest/anxiety to know something)
+. Gijai
+. Naat gya/gi (to deny, refuse)
+. Koohlna
+. Tolla (bartan)
+. Aali (Saman rakhne ki jagah wall m)
+. Eehndi (ghada rakhne ki sir pe)
+. Moiya (fold karna kapde ko without any order)
+. Khatpawda
+. Dharan digna
+. Naley chadhna
+. Baank
+. Sempil/Ramjhol (pajeb)
+. Darkhat/ Rookh (ped)
+. Marjaani
+. Taa (fever)
+. Kaat (katiya)
+. Doke chulakna (dhaar kaadhna)
+. Farhade (jawar ke)
+. Thaadu ke (jor se, achhe se)
+. Samhar ke (jor se, achhe se)
+. Bitoda
+. Muddha
+. Tafri
+. Khal (bhoos)
+. Upparla
+. Tarla (neeche wala)
+. Taale (nicche)
+. Didde (aankhein)
+. Khaava (shoulder)
+. Pasli (ribs)
+. Jaang (thighs)
+. Pindi (calves)
+. Theli (palm)
+. Guntha (thumb)
+. Gunthi (ring)
+. Angli (fingers)
+. Godda (knee)
+. Gatta (wrist)
+. Baajju (sleeves)
+. Dhunga(waist)/Puttha
+. Halak (throat)
+. Bhasra/Thopda/Thooth (face)
+. Gindu/Gend (ball)
